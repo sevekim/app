@@ -9,7 +9,7 @@ This is to show case Crossplatform App (initial version) that is in development 
 ___
 ## Android App APK
 
-To download initial APK to test (Android only atm.): http://bit.ly/2RmLCUr
+To download initial APK to test (Android only atm.): http://bit.ly/2RpCcHY
 
 In order to install the apk on the device, the Android device needs to be in the [Developer Mode](https://developer.android.com/studio/debug/dev-options)
 
