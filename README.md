@@ -11,6 +11,8 @@ ___
 
 To download initial APK to test (Android only atm.): http://bit.ly/30MmBFm
 
+In order to install the apk on the device, the Android device needs to be in the [Developer Mode](https://developer.android.com/studio/debug/dev-options)
+
 ## Apple iOS App
 
 Coming soon...
