@@ -78,13 +78,13 @@ ___
 **Event Creating Screen**
 
 <p float="left">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122124.jpg" alt="alt text" width="260px" height="auto">
 <img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191452.jpg" alt="alt text" width="260px" height="auto">
 <img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191523.jpg" alt="alt text" width="260px" height="auto">
 <img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191518.jpg" alt="alt text" width="260px" height="auto">
 <img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191534.jpg" alt="alt text" width="260px" height="auto">
 <img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191822.jpg" alt="alt text" width="260px" height="auto">
 <img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191918.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191925.jpg" alt="alt text" width="260px" height="auto">
 </p>
 
 ___
@@ -92,12 +92,20 @@ ___
 **Home & Profile Page**
 
 <p float="left">
-<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192004.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192013.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192020.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192040.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-121831.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122018.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122058.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122104.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122111.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122120.jpg" alt="alt text" width="260px" height="auto">
 </p>
 ___
 
+**Post Detail page**
 
+<p float="left">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-121956.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122022.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200124-122029.jpg" alt="alt text" width="260px" height="auto">
+</p>
 
