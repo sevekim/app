@@ -1,6 +1,6 @@
-﻿# Flutter app demo - Event App (Initial version)
+﻿# Crossplatform app demo - Event App (Initial version)
 
-This is to show case Flutter App (initial version) that is in development and thus **thus has many bugs**.
+This is to show case Crossplatform App (initial version) that is in development and thus **thus has many bugs**.
 
 **NOTE**: These is only a subset of codes, thus are not intended to be copied.
 
@@ -9,7 +9,9 @@ This is to show case Flutter App (initial version) that is in development and th
 ___
 ## Android App APK
 
-To download initial APK to test (Android only atm.): http://bit.ly/30MmBFm
+To download initial APK to test (Android only atm.): http://bit.ly/311sSNH
+
+In order to install the apk on the device, the Android device needs to be in the [Developer Mode](https://developer.android.com/studio/debug/dev-options)
 
 ## Apple iOS App
 
@@ -66,9 +68,9 @@ ___
 **Authorization Screen**
 
 <p float="left">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191416.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191422.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191438.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191416.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191422.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191438.jpg" alt="alt text" width="260px" height="auto">
 </p>
 
 ___
@@ -76,13 +78,13 @@ ___
 **Event Creating Screen**
 
 <p float="left">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191452.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191523.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191518.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191534.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191822.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191918.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-191925.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191452.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191523.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191518.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191534.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191822.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191918.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-191925.jpg" alt="alt text" width="260px" height="auto">
 </p>
 
 ___
@@ -90,10 +92,10 @@ ___
 **Home & Profile Page**
 
 <p float="left">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-192004.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-192013.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-192020.jpg" alt="alt text" width="260px" height="auto">
-<img src="https://github.com/sevekim/flutter/blob/master/assets/images/Screenshot_20200121-192040.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192004.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192013.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192020.jpg" alt="alt text" width="260px" height="auto">
+<img src="https://github.com/sevekim/app/blob/master/assets/images/Screenshot_20200121-192040.jpg" alt="alt text" width="260px" height="auto">
 </p>
 ___
 
