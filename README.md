@@ -1,6 +1,6 @@
 ﻿# Flutter app demo - Event App (Initial version)
 
-This is to show case Flutter App (initial version) that is in development and thus many bugs.
+This is to show case Flutter App (initial version) that is in development and thus **thus has many bugs**.
 
 **NOTE**: These is only a subset of codes, thus are not intended to be copied.
 
@@ -19,29 +19,35 @@ Coming soon...
 
 1. **Firebase Authentication:** 
 
-   ⋅⋅* Sign up, log in, password reset
+   - Sign up, log in, password reset
 
 2. **Home page:** 
 
-   -- Displays latest event posts based on the submission date.
-   -- Pulldown to reload
-   -- Navigate to user profile when the user name/avatar is tapped on
+   - Displays latest event posts based on the submission date.
+   
+   - Pulldown to reload
+   
+   - Navigate to user profile when the user name/avatar is tapped on
 
 3. **Event Add page:**
 
-   -- Can add multiple images (either from gallery or camera app)
-   -- Can delete individual images 
-   -- Event input such as title, price, description, date
-   -- Google map location input can be chosen by location search
+   - Can add multiple images (either from gallery or camera app)
+   
+   - Can delete individual images 
+   
+   - Event input such as title, price, description, date
+   
+   - Google map location input can be chosen by location search
 
 4. **Profile page:**
 
-   -- Displays the specific user posts, if available.
-   -- If visiting own page, then can edit or delete post
+   - Displays the specific user posts, if available.
+   
+   - If visiting own page, then can edit or delete post
 
 5. **Event detail page:**
 
-   -- Can view image gallery among other event details.
+   - Can view image gallery among other event details.
 
 # Upcoming features:
 
