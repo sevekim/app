@@ -1,6 +1,6 @@
-﻿# Flutter app demo - Event App (Initial version)
+﻿# Crossplatform app demo - Event App (Initial version)
 
-This is to show case Flutter App (initial version) that is in development and thus **thus has many bugs**.
+This is to show case Crossplatform App (initial version) that is in development and thus **thus has many bugs**.
 
 **NOTE**: These is only a subset of codes, thus are not intended to be copied.
 
